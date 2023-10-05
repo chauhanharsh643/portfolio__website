@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio__website/static/css/main.c6868c73.css",
+    "main.js": "/portfolio__website/static/js/main.fd5fd932.js",
+    "static/media/me.png": "/portfolio__website/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/portfolio1.jpg": "/portfolio__website/static/media/portfolio1.58655c04cca3fc2e426a.jpg",
+    "static/media/Resume_harsh.pdf": "/portfolio__website/static/media/Resume_harsh.2da15b688feb54667ece.pdf",
+    "static/media/portfolio5.png": "/portfolio__website/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio6.jpg": "/portfolio__website/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/me-about.jpg": "/portfolio__website/static/media/me-about.1b710b4dc69698dec4f2.jpg",
+    "static/media/portfolio2.jpg": "/portfolio__website/static/media/portfolio2.7f27b00e2937a4d98402.jpg",
+    "static/media/portfolio3.jpg": "/portfolio__website/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/portfolio__website/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/portfolio__website/index.html",
+    "main.c6868c73.css.map": "/portfolio__website/static/css/main.c6868c73.css.map",
+    "main.fd5fd932.js.map": "/portfolio__website/static/js/main.fd5fd932.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6868c73.css",
+    "static/js/main.fd5fd932.js"
+  ]
+}
